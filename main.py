@@ -1,0 +1,1 @@
+print("Laboratornaya_rabota 3")
