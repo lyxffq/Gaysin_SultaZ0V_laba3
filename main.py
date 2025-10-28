@@ -1,3 +1,3 @@
 print("Laboratornaya_rabota 3")
 
-print('Конфликтная ситуация')
+print('Конфликтная ситуация 1')
